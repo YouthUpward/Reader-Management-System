@@ -1,0 +1,3 @@
+#include <list>见https://blog.csdn.net/wuruiaoxue/article/details/48159973
+begin( )函数见https://zouzhongliang.com/index.php/2019/05/08/list%E9%93%BE%E8%A1%A8begin%E5%87%BD%E6%95%B0%E8%BF%90%E7%94%A8%E5%AE%9E%E4%BE%8B/
+迭代器实现修改（删除插入）见https://blog.csdn.net/jfkidear/article/details/40822291
